@@ -13,7 +13,7 @@ From recognizing voice, text or images to designing more efficient airplane wing
 ### Software used in class
 
 - A Python enviroment set up for scientific computing (I recommend the [Anaconda distribution](https://anaconda.org/anaconda/python))
-- Machine learning libraries: [PyTorch](http://pytorch.org/)
+- Machine learning libraries: [JAX](https://github.com/google/jax)
 
 ### Course Learning Objectives
 
@@ -33,7 +33,7 @@ Students will leave this course with experience in:
 
 Please consult the TA regarding issues related to course material, homework problems, setting up your computing enviroment, code design, implementation, and execution.
 
-TA: George Kissas,  Office Hours: Tuesdays 5pm-6pm, Rm. 534, 3401 Walnut Street (5th-floor), and Fridays 12pm-1pm,  Rm. 517, 3401 Walnut Street (5th-floor), Email: <gkissas@seas.upenn.edu>
+TA: George Kissas,  Zoom Office Hours: TBA, Email: <gkissas@seas.upenn.edu>
 
 ### Note
 
